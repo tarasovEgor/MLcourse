@@ -5,3 +5,4 @@
 pyvenv.cfg
 /include
 /labs/lab_0/flagged
+*.DS_store
