@@ -47,6 +47,7 @@ description = (
     "By clicking submit, a new color will be generated"
 )
 
+
 demo = gr.Interface(
     fn=change_color,
     inputs=inputs,
