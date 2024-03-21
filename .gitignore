@@ -7,3 +7,4 @@ pyvenv.cfg
 /labs/lab_0/flagged
 **/ .DS_Store
 /etc
+.ipynb_checkpoints
